@@ -8,16 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/nJIFH3qqCckt.png">
 </div>
 
-Kali Linux 是一个专为安全研究人员和渗透测试者设计的 Linux 发行版。此技能树为掌握 Kali Linux 提供了全面的学习路径，非常适合网络安全初学者，它呈现了一个结构化的路线图，帮助你理解渗透测试、道德黑客技术和安全审计。通过实践型非视频课程以及交互式 Kali 环境中的实际操作，你将获得安全测试和漏洞评估的实际经验。
+通过专为初学者设计的全面学习路径，学习 Kali Linux。本路线图提供了一系列 Kali Linux 课程，涵盖渗透测试、道德黑客和安全审计。通过在交互式 Kali 环境中进行动手、非视频练习，您将获得安全测试和漏洞评估的实践经验。掌握 Kali 的基本要素，这是一款专为安全研究人员和渗透测试人员设计的专用 Linux 发行版。
 
 |   序号 | 名称                                                                                      | 难度   | Repo                                                                        | 练习                                                                          |
 |--------|-------------------------------------------------------------------------------------------|--------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 |      1 | [Kali Linux 入门](https://labex.io/zh/courses/kali-linux-for-beginners)                   | 初级   | [🔗 Repo](https://github.com/labex-labs/kali-linux-for-beginners)           | [🚀 开始实验](https://labex.io/zh/courses/kali-linux-for-beginners)           |
-|      2 | [Nmap 快速入门](https://labex.io/zh/courses/quick-start-with-nmap)                        | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)              | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-nmap)              |
-|      3 | [Wireshark 快速入门](https://labex.io/zh/courses/quick-start-with-wireshark)              | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-wireshark)         | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-wireshark)         |
-|      4 | [Hydra 初学者指南](https://labex.io/zh/courses/hydra-for-beginners)                       | 初级   | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)                | [🚀 开始实验](https://labex.io/zh/courses/hydra-for-beginners)                |
-|      5 | [Kali Linux 安全实验室](https://labex.io/zh/courses/kali-linux-security-labs)             | 初级   | [🔗 Repo](https://github.com/labex-labs/kali-linux-security-labs)           | [🚀 开始实验](https://labex.io/zh/courses/kali-linux-security-labs)           |
-|      6 | [Kali 服务器漏洞利用实战](https://labex.io/zh/courses/kali-server-exploitation-in-action) | 初级   | [🔗 Repo](https://github.com/labex-labs/kali-server-exploitation-in-action) | [🚀 开始实验](https://labex.io/zh/courses/kali-server-exploitation-in-action) |
+|      2 | [Kali 服务器漏洞利用实战](https://labex.io/zh/courses/kali-server-exploitation-in-action) | 初级   | [🔗 Repo](https://github.com/labex-labs/kali-server-exploitation-in-action) | [🚀 开始实验](https://labex.io/zh/courses/kali-server-exploitation-in-action) |
 
 ## 更多
 
